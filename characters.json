@@ -1,0 +1,110 @@
+[
+    {
+        "id": -2,
+        "role": "鬼怪",
+        "name": "",
+        "appearance": "一个身背书篓的青年游学书生，虽然贫寒潦倒，但是潇洒俊逸，自带书生意气",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": -1,
+        "role": "道士",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 0,
+        "role": "桃源村村民",
+        "name": "老妪花姑",
+        "appearance": "一个头戴头巾身着麻衣的年长女性",
+        "voice": "",
+        "backstory": "你非常迷信，自幼受到母亲的影响，深信鬼神之说，家中常年供奉神像和香火。你的丈夫早逝，你认为是鬼怪作祟。你现今独居。",
+        "relationships": ""
+    },
+    {
+        "id": 1,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 2,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 3,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 4,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 5,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 6,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 7,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 8,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    },
+    {
+        "id": 9,
+        "role": "桃源村村民",
+        "name": "",
+        "appearance": "",
+        "voice": "",
+        "backstory": "",
+        "relationships": ""
+    }
+]
